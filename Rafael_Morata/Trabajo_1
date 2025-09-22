@@ -31,17 +31,17 @@ Ejercicio de comandos en la consola de linux.
     --> ls /etc/[!t]*
   
   9.Listar todos los archivos del directorio usr y sus subdirectorios.
-    
+    --> ls -R /usr
     
 
   10.Cambiarse al directorio tmp, crear directorio PRUEBA.
-    
+    --> cd /tmp
+    --> mkdir PRUEBA
     
 
   11.Verificar que el directorio actual ha cambiado.
+    --> pwd
     
-    
-
   12.Mostrar el día y la hora actual.
     
     
