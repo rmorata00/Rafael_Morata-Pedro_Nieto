@@ -7,25 +7,20 @@ Una vez completado, debes subirlo a vuestro repositorio remoto de GitHub y reali
 Ejercicio de comandos en la consola de linux.
 
   1.Listar todos los archivos del directorio bin.
-  --> ls /bin
+  --> ls /bin 
     
-     
-    
-  2.Listar todos los archivos del directorio tmp.
-   
-    
+  2.Listar todos los archivos del directorio tmp
+    --> ls /tmp
     
   3.Listar todos los archivos del directorio etc que empiecen por t 
-    
-    
+    --> ls /etc/t*
   
   4.Listar todos los archivos del directorio dev que empiecen por tty.
-    
+    --> ls /dev/tty*
     
     
   5.Listar todos los archivos del directorio dev que empiecen por tty y acaben en 3.
-    
-    
+    -->
     
   6.Listar todos los archivos del directorio dev que empiecen por t y acaben en C1.
     
